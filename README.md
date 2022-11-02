@@ -10,15 +10,15 @@
 
 ## Project Motivation
 I found this dataset on Kaggle and when I saw that I could combine my interest in finance with programming languages I decided to download it and have a look into the data. 
-Through this data I aim to analyse a few things such as:
--A general overview of which nations had a large number of stocks in a certain range.
--Comparison between the two indexes on the volume.
--Comparison between the two countries on the volume multiplied by the opening value.
--Comparison between the two indexes on the difference between the opening and closing value.
--Comparison between the two indexes on the difference between the highest and lowest value.
--Which indices is more volatile?
--Through an OHLC, see the differences, if any.
--Which indices has the most high value in return investment.
+Through this data I aim to analyse a few things such as:  <br />
+-A general overview of which nations had a large number of stocks in a certain range.  <br />
+-Comparison between the two indexes on the volume.  <br />
+-Comparison between the two countries on the volume multiplied by the opening value.  <br />
+-Comparison between the two indexes on the difference between the opening and closing value. <br />
+-Comparison between the two indexes on the difference between the highest and lowest value. <br />
+-Which indices is more volatile? <br />
+-Through an OHLC, see the differences, if any.  <br />
+-Which indices has the most high value in return investment.  <br />
 
 ## File Descriptions
 There is one notebook available and a folder with all graphs created for the analysis and there are also markdown cells that been used to explain the processes.
