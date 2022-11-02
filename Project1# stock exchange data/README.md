@@ -9,8 +9,8 @@
 - seaborn
 
 ## Project Motivation
-I found this dataset on Kaggle and when I saw that I could combine my interest in finance with programming languages I decided to download it and have a look into the data. 
-Through this data I aim to analyse a few things such as:  <br />
+I found this dataset on Kaggle and I analyzed the stock exchange data to have a better understanding on the variations over the time. 
+In this dataset I'll go through these questions:  <br />
 -A general overview of which nations had a large number of stocks in a certain range.  <br />
 -Comparison between the two indexes on the volume.  <br />
 -Comparison between the two countries on the volume multiplied by the opening value.  <br />
