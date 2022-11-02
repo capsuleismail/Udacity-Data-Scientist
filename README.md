@@ -28,5 +28,5 @@ There is one notebook available and a folder with all graphs created for the ana
 
 ## Authors, Licensing, Acknowledgements
 My acknowledgements goes to [Kaggle](https://www.kaggle.com/datasets/mattiuzc/stock-exchange-data) and the dataset's provider [cody](https://www.kaggle.com/mattiuzc), my favorite [Python](https://docs.python.org/3/tutorial/) tutorial, 
-[DataCamp](https://app.datacamp.com/learn) for the amazing challanges and insights about Pandas, 
-the amazing [Seaborn](https://seaborn.pydata.org/generated/seaborn.lineplot.html) documentation and last but not least DATAI [tutorial](https://www.kaggle.com/code/kanncaa1/plotly-tutorial-for-beginners) to how to use properly plotpy.
+[DataCamp](https://app.datacamp.com/learn) for the challanges and insights about Pandas, 
+the amazing [Seaborn](https://seaborn.pydata.org/generated/seaborn.lineplot.html) documentation and last but not least DATAI [tutorial](https://www.kaggle.com/code/kanncaa1/plotly-tutorial-for-beginners) on how to use properly plotpy and its graphs.
