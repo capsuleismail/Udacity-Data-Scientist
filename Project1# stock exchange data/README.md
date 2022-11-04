@@ -24,7 +24,7 @@ In this dataset I'll go through these questions:  <br />
 There is one notebook available and a folder with all graphs created for the analysis and there are also markdown cells that been used to explain the processes.
 
 ## Medium Blog Post 
-
+The main findings of the code can be found at the Medium Blog post available [here](https://medium.com/@isma.ali1993/stock-exchange-analysis-661230ca13aa)
 
 ## Authors, Licensing, Acknowledgements
 My acknowledgements goes to [Kaggle](https://www.kaggle.com/datasets/mattiuzc/stock-exchange-data) and the dataset's provider [cody](https://www.kaggle.com/mattiuzc), my favorite [Python](https://docs.python.org/3/tutorial/) tutorial, 
