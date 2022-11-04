@@ -22,7 +22,7 @@ In this dataset I'll go through these questions: <br>
 <b>-Comparison between the two indexes on the difference between the highest and lowest value.</b>  <br>
 <b>-Which indices is more volatile? </b>  <br>
 <b>-Through an OHLC, see the differences, if any.</b>  <br>
-<b>-Which indices has the most high value in return investment.</b>  <br>>
+<b>-Which indices has the most high value in return investment.</b>  <br>
 
 I'm a recent graduate in BSc and I been always interested in Stock Exchange. I had the opportunity to analyze this dataset and to share my analysis via Medium where the reader can find the process that lead me to the conclusions.
 
