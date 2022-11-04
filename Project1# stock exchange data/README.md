@@ -8,6 +8,9 @@
 - plotpy
 - seaborn
 
+My installations used in this project is Anaconda distribution of Python and Jupyter notebook.
+
+
 ## Project Motivation
 I found this dataset on Kaggle and I analyzed the stock exchange data to have a better understanding on the variations over the time. 
 In this dataset I'll go through these questions:  <br />
