@@ -23,7 +23,7 @@ In this dataset I'll go through these questions:  <br />
 -Through an OHLC, see the differences, if any.  <br />
 -Which indices has the most high value in return investment.  <br />
 
-I had the opportunity to analyze this dataset and to share my analysis via Medium where the reader can find the process that lead me to the conclusions.
+I'm a recent graduate in BSc and I been always interested in Stock Exchange. I had the opportunity to analyze this dataset and to share my analysis via Medium where the reader can find the process that lead me to the conclusions.
 
 ## File Descriptions
 There is one notebook available and a folder with all graphs created for the analysis and there are also markdown cells that been used to explain the processes.
