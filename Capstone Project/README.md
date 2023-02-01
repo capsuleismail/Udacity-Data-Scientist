@@ -28,7 +28,7 @@ The project involved:
  - Data Exploration.
  - EDA and Data Preprocessing.
  - Feature Engineering.
- - Model RandomForestClassifier and LogisticRegression and use RandomSearchCV to improve the accuracy.
+ - Model used are RandomForestClassifier and LogisticRegression and RandomSearchCV to improve the accuracy.
 
 ## File Descriptions
 The folder stocks contains all csv files downloaded from YahooFinance and loaded with panda into the Jupyter Notebook.
