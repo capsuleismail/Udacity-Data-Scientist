@@ -34,7 +34,7 @@ The project involved:
 The folder stocks contains all csv files downloaded from YahooFinance and loaded with panda into the Jupyter Notebook.
 
 ## Medium Blog Post 
-This is the link for my article on [Medium]().
+This is the link for my article on [Medium](https://medium.com/@isma.ali1993/stocks-prediction-in-with-sklearn-9ad28d83e78f).
 
 ## Licensing, Authors, Acknowledgements, etc.
 I would like to thank you to Udacity for all the knowledge to face up this project, DataCamp, Kaggle, RealPython and YahooFinance for all informations, free stock quotes, up-to-date news, portfolio management resources and international market data.
